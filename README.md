@@ -1,6 +1,6 @@
 
 
-# Documentation de l'Application de Gestion de Laboratoire Médical (Frontend)
+# Application de Gestion de Laboratoire Médical (Frontend)
 # Introduction
 Bienvenue dans la documentation du frontend de l'Application de Gestion de Laboratoire Médical. Cette documentation vous aidera à comprendre l'organisation et l'utilisation des fichiers frontend de l'application.
 # Description des Fichiers

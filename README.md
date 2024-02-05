@@ -29,3 +29,10 @@ Pour ajouter de nouvelles fonctionnalités frontend, vous pouvez étendre le fic
 Intégration avec le Backend
 
 L'application frontend est conçue pour communiquer avec un backend. Assurez-vous que les requêtes AJAX sont configurées pour interagir avec les API backend.
+# Interface d'application 
+![Capture d’écran 2024-02-05 162616](https://github.com/ABDESSADEQMAKKIOUI/Template-App-G-stion-Lab-Medical/assets/95092583/0cbfa8bb-3a99-4dea-8f18-4bb4eff29241)
+![Capture d’écran 2024-02-05 162546](https://github.com/ABDESSADEQMAKKIOUI/Template-App-G-stion-Lab-Medical/assets/95092583/d21229aa-ea84-4918-a101-f459e517dedc)
+![Capture d’écran 2024-02-05 162510](https://github.com/ABDESSADEQMAKKIOUI/Template-App-G-stion-Lab-Medical/assets/95092583/ea06f1c0-194d-4d4c-a14c-9716cc1aebb3)
+![Capture d’écran 2024-02-05 162444](https://github.com/ABDESSADEQMAKKIOUI/Template-App-G-stion-Lab-Medical/assets/95092583/caf207ca-99d7-40fe-8889-f844491a79eb)
+![Capture d’écran 2024-02-05 162417](https://github.com/ABDESSADEQMAKKIOUI/Template-App-G-stion-Lab-Medical/assets/95092583/dbc3f1cc-94c0-4da4-a660-6909bf3bbc1b)
+![Capture d’écran 2024-02-05 162708](https://github.com/ABDESSADEQMAKKIOUI/Template-App-G-stion-Lab-Medical/assets/95092583/6201de7e-cf61-4543-a612-a4bd3792f28b)
